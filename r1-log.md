@@ -4,7 +4,17 @@ The log of my #100DaysOfCode challenge. Started on July 30th, Monday, 2018.
 
 ## Log
 
-### R1D1 
-Currently setting up my challenge. Have a bootcamp interview coming up that requires me to know problem-solving and a bit of ruby. Will work on that today.
+### R1D1 - July 30 2018
 
-### R1D2
+**Today's Progress Report**
+
+Currently setting up my challenge. Have a bootcamp interview coming up that requires me to know problem-solving and a bit of ruby. Will work on that today. Working on website's comment section.
+
+**Thoughts**
+
+Nervous to begin challenge. But excited to start pushing myself. It's all about commitment.
+
+**Project Link**
+
+[Blog Website (Comment Section)](https://kharouk.github.io)
+
