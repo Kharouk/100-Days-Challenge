@@ -30,9 +30,9 @@ Nervous about starting this challenge. In some weeks I will be travelling to Gre
 
 **Today's Progress** 
 
-Cutting through the Ruby course on Treehouse. It feels like a massive jungle, mostly because I'm not really enjoying the instructor's teaching style. However it's hard to find modern Ruby guides. I'm also needing to push myself through it because tomorrow I have an interview at Maker's Academy! I'm excited for this because I hear such positive things about the school, and I really hope I can get in for the October cohort. 
+Cutting through the Ruby course on Treehouse. It feels like a massive messy jungle, that course, mostly because I'm not really enjoying the instructor's teaching style. However it's hard to find modern Ruby guides. I'm also needing to push myself through it because tomorrow I have an interview at Maker's Academy! I'm excited because I hear such positive things about the school, and I really hope I can get in for the October cohort. 
 
-Got past 3000 points on Treehouse! Feeling good about that. Also so close to reaching 100 on codewars! Just one more kata tonight and I'm there. Planted my first real tree with the forest app as well. Success!
+Got past 3000 points on Treehouse! Feeling good about that. Also so close to reaching 100 on codewars! Just one more kata tonight and I'm there. Planted my first real tree with the forest app as well!
 
 **Thoughts**
 
