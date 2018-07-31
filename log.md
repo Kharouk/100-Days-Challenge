@@ -25,3 +25,21 @@ Nervous about starting this challenge. In some weeks I will be travelling to Gre
 **Weekly Blog**: https://kharouk.github.io/
 
 **Twitter Update**: https://twitter.com/AlexKharouk/status/1023933658787405824
+
+### Day 2: July 31, 2018 
+
+**Today's Progress** 
+
+Cutting through the Ruby course on Treehouse. It feels like a massive jungle, mostly because I'm not really enjoying the instructor's teaching style. However it's hard to find modern Ruby guides. I'm also needing to push myself through it because tomorrow I have an interview at Maker's Academy! I'm excited for this because I hear such positive things about the school, and I really hope I can get in for the October cohort. 
+
+Got past 3000 points on Treehouse! Feeling good about that. Also so close to reaching 100 on codewars! Just one more kata tonight and I'm there. Planted my first real tree with the forest app as well. Success!
+
+**Thoughts**
+
+Worried about tomorrow's interview but I think I can show them how motivated I am. Really looking forward to it. Not so happy with the amount of work I put into studying but it was a crazy outdoor kind of day. I did hit some wild achievements though! 
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/user/codelist), [Treehouse](https://teamtreehouse.com/alexkharouk)
+
+**Weekly Blog**: https://kharouk.github.io/
+
+**Twitter Update**: https://twitter.com/AlexKharouk/status/1023933658787405824
