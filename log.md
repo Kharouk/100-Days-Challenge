@@ -42,4 +42,4 @@ Worried about tomorrow's interview but I think I can show them how motivated I a
 
 **Weekly Blog**: https://kharouk.github.io/
 
-**Twitter Update**: https://twitter.com/AlexKharouk/status/1023933658787405824
+**Twitter Update**: https://twitter.com/AlexKharouk/status/1024340620943523840
