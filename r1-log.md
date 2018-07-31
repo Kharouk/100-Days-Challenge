@@ -18,3 +18,8 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 
 [Blog Website (Comment Section)](https://kharouk.github.io)
 
+### R1D2 - July 31 3018
+**Today's Progress Report**: Makers interview tomorrow! Training on treehouse, codewars, and the like. almost 6 kyu!
+**Thoughts**: Nervous, nervous, nervous. <br>
+**Any Link**: [Codewars](https://www.codewars.com/user/codelist).
+
