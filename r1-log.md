@@ -24,6 +24,6 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 **Any Link**: [Codewars](https://www.codewars.com/users/codelist).
 
 ### R1D3 - August 1 3018
-**Today's Progress Report**: Makers interview went well! I passed! Now on track to become a junior dev! Studied Modules in Ruby.
+**Today's Progress Report**: Makers interview went well! I passed! Now on track to become a junior dev! Studied Modules in Ruby.<br>
 **Thoughts**: Ecstatic and blessed. Excited to begin my pre-course work! <br>
 **Any Link**: [My Website: New Post about Modules & Mixins in Ruby](https://kharouk.github.io).
