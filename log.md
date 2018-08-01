@@ -43,3 +43,19 @@ Worried about tomorrow's interview but I think I can show them how motivated I a
 **Weekly Blog**: https://kharouk.github.io/
 
 **Twitter Update**: https://twitter.com/AlexKharouk/status/1024340620943523840
+
+### Day 3: August 1st, 2018 
+
+**Today's Progress** 
+
+Went through a technical interview which I passed with flying colors. I am know a new student at Makers Academy in London. Afterwards I worked on a new blogpost about Modules and Mixins and taking a break. However began organising Rails to start a new project. Hopefully I will accomplish it tomorrow. **A cryptocurrency portfolio**.
+
+**Thoughts**
+
+Feeling golden but a bit tired. I'm happy with my progress but I should relax before my pre-course begins to avoid too much burnout. 
+
+**Link(s) to work**: [blog code](https://github.com/Kharouk/kharouk.github.io)
+
+**Weekly Blog**: https://kharouk.github.io/100-days-of-code/daythree/2018/08/01/Mixin-It-Up-With-Ruby.html
+
+**Twitter Update**:https://twitter.com/AlexKharouk/status/1024621332296859648
