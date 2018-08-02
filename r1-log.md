@@ -27,3 +27,8 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 **Today's Progress Report**: Makers interview went well! I passed! Now on track to become a junior dev! Studied Modules in Ruby.<br>
 **Thoughts**: Ecstatic and blessed. Excited to begin my pre-course work! <br>
 **Any Link**: [My Website: New Post about Modules & Mixins in Ruby](https://kharouk.github.io).
+
+### R1D4 - August 2 3018
+**Today's Progress Report**: Started a new project, hoping to finish tomorrow. Cryptocurrency Portfolio App that tracks personal investment and current information on the market. <br>
+**Thoughts**: Anxiety and moments of doubt. Couldn't relax. Also upset about not getting my Raspberry Pi delivered today. <br>
+**Any Link**: [Crypto Portfolio App](https://github.com/Kharouk/crypto-rails).
