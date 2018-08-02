@@ -59,3 +59,19 @@ Feeling golden but a bit tired. I'm happy with my progress but I should relax be
 **Weekly Blog**: https://kharouk.github.io/100-days-of-code/daythree/2018/08/01/Mixin-It-Up-With-Ruby.html
 
 **Twitter Update**:https://twitter.com/AlexKharouk/status/1024621332296859648
+
+### Day 4: August 2nd, 2018
+
+**Today's Progress**
+
+Actual code! Code that is awkward but outside-the-box. I started the day with a press of a digital button, and a timer counts down from 120 minutes. I then began a new rails project locally. A first for me. Then I began my application, that uses Devise, Bootstrap, Rails, and yes a tutorial but it's something new. And something I wouldn't mind showing on a portfolio. It's still young, but it's a simple app that uses an API to display information on selected Cryptocurrency. You can then keep track of coins and also input how much money you've invested into the coin, and whether or not you're profiting from it. 
+
+**Thoughts**
+
+I had to push through to code today. I had such a nice day yesterday that for some reason I felt quite sick today. You ever get those thoughts where you feel like something bad is gonna happen? Yeah, one of those days. Almost wanted to just crawl into bed but pushed through! Also very hot today in London, England. I'm more of a cold, cloudy weather kind of guy. 
+
+**Link(s) to work** [Cryptocurrency Portfolio App](https://github.com/Kharouk/crypto-rails)
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
+
+**Twitter Update**: https://twitter.com/AlexKharouk/status/1025078561974218752
