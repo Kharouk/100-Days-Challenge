@@ -18,17 +18,22 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 
 [Blog Website (Comment Section)](https://kharouk.github.io)
 
-### R1D2 - July 31 3018
+### R1D2 - July 31 2018
 **Today's Progress Report**: Makers interview tomorrow! Training on treehouse, codewars, and the like. almost 6 kyu!
 **Thoughts**: Nervous, nervous, nervous. <br>
 **Any Link**: [Codewars](https://www.codewars.com/users/codelist).
 
-### R1D3 - August 1 3018
+### R1D3 - August 1 2018
 **Today's Progress Report**: Makers interview went well! I passed! Now on track to become a junior dev! Studied Modules in Ruby.<br>
 **Thoughts**: Ecstatic and blessed. Excited to begin my pre-course work! <br>
 **Any Link**: [My Website: New Post about Modules & Mixins in Ruby](https://kharouk.github.io).
 
-### R1D4 - August 2 3018
+### R1D4 - August 2 2018
 **Today's Progress Report**: Started a new project, hoping to finish tomorrow. Cryptocurrency Portfolio App that tracks personal investment and current information on the market. <br>
 **Thoughts**: Anxiety and moments of doubt. Couldn't relax. Also upset about not getting my Raspberry Pi delivered today. <br>
 **Any Link**: [Crypto Portfolio App](https://github.com/Kharouk/crypto-rails).
+
+### R1D5 - August 3 2018
+**Today's Progress Report**: Somehow didn't notice that the years before were all 3018. No I'm not from the year 3000 so unfortunately that was changed. Today was progress on the portfolio app. I also got myself a Raspberry Pi as a sort of congratulations to myself for getting into Makers Academy. <br />
+**Thoughts**: The anxiety is still there. I'm having trouble feeling relaxed so it's good that I have work to occupy my thoughts. <br />
+**Any Link**: [Crypto Portfolio App](https://github.com/Kharouk/crypto-rails) & [Blog Site](https://kharouk.github.io).
