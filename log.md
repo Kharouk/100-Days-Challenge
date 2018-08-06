@@ -75,3 +75,19 @@ I had to push through to code today. I had such a nice day yesterday that for so
 **Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
 
 **Twitter Update**: https://twitter.com/AlexKharouk/status/1025078561974218752
+
+### Day 5: August 6th, 2018
+
+**Today's Progress** 
+
+Feeling good, feeling great. Today was my first day doing the Makers Academy pre-course. I honestly felt like I did a week's worth of work in a day. And technically I did. It's a four week pre-course and the first week is dedicated to learning the command line and version control. Which... I kinda did today. My assignments were to figure out the command line, use git and github (also know the difference), but more importantly, the challenge we had to do was to solve a murder mystery game using only the terminal. Really fun! 
+
+**Thoughts**
+
+I was gone for a couple of days and didn't have access to my computer. I think that I'm going to add a new rule. If I am travelling for more than 15 minutes then I am legally aloud to leave.. this challenge. I'm feeling much better after my getaway though. Really rouch times before but it looks like things are a tad better. Still nervous about my future but I think working on Makers Academy work is making me feel mentally strong. It also helped that I went to the gym before I started my day!
+
+**Link(s) to work** [Repository for Solving a Crime](https://github.com/Kharouk/clmystery)
+
+**Weekly Blog** [No Blog Post Today](https://kharouk.github.io)
+
+**Twitter Update** [Post](https://twitter.com/AlexKharouk/status/1026525203059408896)
