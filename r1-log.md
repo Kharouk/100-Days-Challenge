@@ -33,7 +33,12 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 **Thoughts**: Anxiety and moments of doubt. Couldn't relax. Also upset about not getting my Raspberry Pi delivered today. <br>
 **Any Link**: [Crypto Portfolio App](https://github.com/Kharouk/crypto-rails).
 
-### R1D5 - August 3 2018
+### R1D4.5 - August 3 2018
 **Today's Progress Report**: Somehow didn't notice that the years before were all 3018. No I'm not from the year 3000 so unfortunately that was changed. Today was progress on the portfolio app. I also got myself a Raspberry Pi as a sort of congratulations to myself for getting into Makers Academy. <br />
 **Thoughts**: The anxiety is still there. I'm having trouble feeling relaxed so it's good that I have work to occupy my thoughts. <br />
 **Any Link**: [Crypto Portfolio App](https://github.com/Kharouk/crypto-rails) & [Blog Site](https://kharouk.github.io).
+
+### R1D5 - August 6 2018
+**Today's Progress Report**: New week of code. New boot camp. New projects. New lifestyle. New great opportunity.<br />
+**Thoughts**: The anxiety is better! Feeling strong and confident with the work. Looking forward to what comes next. <br />
+**Any Link**: [Command Line Murder Mystery](https://github.com/Kharouk/clmystery)
