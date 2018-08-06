@@ -13,9 +13,10 @@ July 30th, 2018.
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode. Follow me [here](https://www.twitter.com/alexkharouk).
 2. If I code at work, that time won't count towards the challenge. ~**As well as any learning during a bootcamp.**~ (Scratch that it only doesn't count when I'm learning. If I code afterwards, that's fine for me.)
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the [Log](log.md) with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md)) **I'll be going easy on this rule since it's my first round. I hope to do real projects once/if I start round two.**
+3. If I am away from my computer travelling, that day doesn't count towards the 100 days. 
+4. I will push code to GitHub every day so that anyone can see my progress.
+5. I will update the [Log](log.md) with the day's progress and provide a link so that others can see my progress.
+6. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md)) **I'll be going easy on this rule since it's my first round. I hope to do real projects once/if I start round two.**
 
 
 ## Ideas to make this challenge more effective
