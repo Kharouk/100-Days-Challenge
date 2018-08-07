@@ -42,3 +42,8 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 **Today's Progress Report**: New week of code. New boot camp. New projects. New lifestyle. New great opportunity.<br />
 **Thoughts**: The anxiety is better! Feeling strong and confident with the work. Looking forward to what comes next. <br />
 **Any Link**: [Command Line Murder Mystery](https://github.com/Kharouk/clmystery)
+
+### R1D6 - August 7 2018
+**Today's Progress Report** Went back into Ruby. Learned how to solve FizzBuzz by memory now as well as the Fibonnaci Sequence. <br />
+**Thoughts**: Doing well on the pre-work. I'm moving quite fast, as anticipated. Will make sure to complete the work before Iceland. <br />
+**Any Link**: [Twitter](https://twitter.com/AlexKharouk/status/1026879070645219330) 
