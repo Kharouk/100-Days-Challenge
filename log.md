@@ -91,3 +91,21 @@ I was gone for a couple of days and didn't have access to my computer. I think t
 **Weekly Blog** [No Blog Post Today](https://kharouk.github.io)
 
 **Twitter Update** [Post](https://twitter.com/AlexKharouk/status/1026525203059408896)
+
+### Day 6: August 7th, 2018
+
+**Today's Progress** 
+
+Day two of the pre-course and I've begun working through the Ruby material. I've read four chapters that introduce the concept and theory behind programming, and helping me understand better the things I know about the language. Today I was able to solve both the Fibonacci and the FizzBuzz challenge without too much outside support, so that's got me reeling with excitement. I think it marked the first time I felt like I was doing alright with learning how to code. 
+
+**Thoughts**
+
+Really liking Ruby. I hope that the knowledge I get learning it will really help when I go off and learn other languages. I'm still curious about Python and Go. Also want to learn C# for whenever I get into game programming. Was glad I was able to to write a blog detailing my journey so far. Link is below. 
+
+**Link(s) to work** Nothing to show since I did it through Maker's repository. 
+
+**Weekly Blog** [Yesterday's Work Rewards Me Today](https://kharouk.github.io/100-days-of-code/dayfour/2018/08/07/Yesterday-Work-Rewards-Me-Today.html)
+
+**Twitter Update** [Post](https://twitter.com/AlexKharouk/status/1026879070645219330)
+
+
