@@ -1,11 +1,5 @@
 # 100 Days Of Code - Log
 
-<!--- **Today's Progress**: Fixed CSS, worked on canvas functionality for the app. -->
-
-<!--- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
-
-<!--- **Link to work:** [Calculator App](http://www.example.com) -->
-
 ### Day 1: July 30, 2018 
 
 **Today's Progress** 
@@ -107,5 +101,23 @@ Really liking Ruby. I hope that the knowledge I get learning it will really help
 **Weekly Blog** [Yesterday's Work Rewards Me Today](https://kharouk.github.io/100-days-of-code/dayfour/2018/08/07/Yesterday-Work-Rewards-Me-Today.html)
 
 **Twitter Update** [Post](https://twitter.com/AlexKharouk/status/1026879070645219330)
+
+### Day 8: August 9th, 2018
+
+**Today's Progress** 
+
+Spent the last couple of days going through the pre-course. Solving the challenges one by one. Even though the time to debug each challenge is taking longer and longer. But my determination to solve each challenge increases tenfold. I didn't write a log yesterday but believe me, future me, that I worked just as hard. 
+
+**Thoughts**
+
+Every waking hour is spent investing into my new career. I can't stop. It's really invigorating feeling this passion, however I should be aware of burning out. Honestly, when someone goes completely sober, it's impressive how much work can fill up the hours of the day. 
+
+**Link(s) to work** Got the blog on [Medium](https://medium.com/@codelist/yesterdays-work-rewards-me-today-92d843c9e05b) and on the [Dev community](https://dev.to/kharouk/yesterdays-work-rewards-me-today-5f90).
+
+**Weekly Blog** [Yesterday's Work Rewards Me Today](https://kharouk.github.io/100-days-of-code/dayfour/2018/08/07/Yesterday-Work-Rewards-Me-Today.html).
+
+**Twitter Update** [Post](https://twitter.com/AlexKharouk/status/1027607625167454209).
+
+
 
 
