@@ -47,3 +47,8 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 **Today's Progress Report** Went back into Ruby. Learned how to solve FizzBuzz by memory now as well as the Fibonnaci Sequence. <br />
 **Thoughts**: Doing well on the pre-work. I'm moving quite fast, as anticipated. Will make sure to complete the work before Iceland. <br />
 **Any Link**: [Twitter](https://twitter.com/AlexKharouk/status/1026879070645219330) 
+
+### R1D7&8 - August 9 2018
+**Today's Progress Report**: Every hour is Ruby. Completed several difficult challenges with little help. <br />
+**Thoughts**: Super invested into learning. Learning patience is key when problem-solving. Can't stop now. <br />
+**Any Link**: No time with working my Portfolio App. But will need to find the time. 
