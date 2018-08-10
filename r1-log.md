@@ -52,3 +52,6 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 **Today's Progress Report**: Every hour is Ruby. Completed several difficult challenges with little help. <br />
 **Thoughts**: Super invested into learning. Learning patience is key when problem-solving. Can't stop now. <br />
 **Any Link**: No time with working my Portfolio App. But will need to find the time. 
+
+### R1D9 - August 10 2018
+As said on my [Twitter](https://twitter.com/AlexKharouk/): #100DaysOfCode D9 brings the conclusion of challenges. Throughout the week I was faced with increasingly difficult problems. I felt I was thrown into the deep end since before I stuck to code-alongs online. But I made it through! Feeling like a smarter #codenewbie.
