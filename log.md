@@ -118,6 +118,18 @@ Every waking hour is spent investing into my new career. I can't stop. It's real
 
 **Twitter Update** [Post](https://twitter.com/AlexKharouk/status/1027607625167454209).
 
+### Day 9: August 10th, 2018
 
+**Today's Progress**
+
+Friday! My Forest Pomodoro App tells me I worked 7 hours and 21 minutes going through the challenges set by the bootcamp. In that time, I had my hardest challenge yet. I'm still new to problem solving but a lot of the challenges had me breaking them down, putting pen on paper to sort out conditionals, then finally solving it. The problem today was so difficult I finally had to announce and give up. Asked for help from my cohort. However, I was so anxious that the problem wasn't solved, I couldn't wait. I ended up missing an important part in the error message and found the mistake I made. I felt so inspired to have solved it, I want to write about the process. 
+
+**Thoughts**
+
+I think my progress report today was more thoughtful than about projects, so I think I shouldn't repeat myself. But today it has been raining in London all day. I missed that. I realised today I do better work when it's raining. Rain delights me. Heat, not so much.
+
+**Weekly Blog** [Yesterday's Work Rewards Me Today](https://kharouk.github.io/100-days-of-code/dayfour/2018/08/07/Yesterday-Work-Rewards-Me-Today.html).
+
+**Twitter Update**: [Post](https://twitter.com/AlexKharouk/status/1027953017121906688)
 
 
