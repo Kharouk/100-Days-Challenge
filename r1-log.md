@@ -55,3 +55,6 @@ Nervous to begin challenge. But excited to start pushing myself. It's all about 
 
 ### R1D9 - August 10 2018
 As said on my [Twitter](https://twitter.com/AlexKharouk/): #100DaysOfCode D9 brings the conclusion of challenges. Throughout the week I was faced with increasingly difficult problems. I felt I was thrown into the deep end since before I stuck to code-alongs online. But I made it through! Feeling like a smarter #codenewbie.
+
+### R1D10 - August 11 2018
+Saturday, the day of a bit of rest and a bit of code. Gone further with the Treehouse Ruby course. Set up shop in both Hackerrank and Exercism websites. But got to spend quality time with my partner, which was probably the highlight of my day. Until tomorrow!
