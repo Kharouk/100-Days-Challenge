@@ -132,4 +132,16 @@ I think my progress report today was more thoughtful than about projects, so I t
 
 **Twitter Update**: [Post](https://twitter.com/AlexKharouk/status/1027953017121906688)
 
+### Day 10: August 11th, 2018
 
+**Today's Progress**
+
+Woohoo. I'm now 10% into this challenge. Today I took it easy. I made some progress through the Ruby Treehouse track since I've completed all the work needed for my pre-course. I then signed up and begun solving beginner challenges in both Hackerrank and Exercism.io since both are recommended in the programming world. I wanted to work on my cryptocurrency app, but instead decided to spend some needed quality time with my partner, playing Scrabble in the park.
+
+**Thoughts**
+
+Chilled out. Relaxed. Tranquilo. Took it easy on myself, only coding in the morning whilst the partner was still asleep. Didn't want to overwork on the Saturday. However worried about this trip I'm doing next week. Hope I can get in a lot of work Monday and Tuesday so I don't feel too guilty travelling without coding. However I did get myself a Sandi Metz book, so at least I have reading sorted!
+
+**Links**: Meh. Nothing to post. 
+
+**Twitter Update**: Haven't posted anything for today. It's a Saturday. Gimme a break! 
