@@ -58,3 +58,6 @@ As said on my [Twitter](https://twitter.com/AlexKharouk/): #100DaysOfCode D9 bri
 
 ### R1D10 - August 11 2018
 Saturday, the day of a bit of rest and a bit of code. Gone further with the Treehouse Ruby course. Set up shop in both Hackerrank and Exercism websites. But got to spend quality time with my partner, which was probably the highlight of my day. Until tomorrow!
+
+### R1D11 - August 12 2018
+Sunday, fun day. Enjoyed the calmness of the day. Almost didn't code but decided to anyways. Feels great to have done an hour of my crypto project. Tomorrow I will be back to a several-hour coding session!
