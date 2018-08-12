@@ -145,3 +145,17 @@ Chilled out. Relaxed. Tranquilo. Took it easy on myself, only coding in the morn
 **Links**: Meh. Nothing to post. 
 
 **Twitter Update**: Haven't posted anything for today. It's a Saturday. Gimme a break! 
+
+### Day 11: August 12th, 2018
+
+**Today's Progress**
+
+Almost didn't code today! Instead I focused back onto my crypto rails app, and learned a bit more about authentication and what pages can be seen by what users. I also tidied up some of the UI to make it look more like an authentic product.
+
+**Thoughts**
+
+Was really trying to convince myself to just relax today. I almost decided to just relax the night away until I told myself I'd feel better if I just get an hour of code into my day. Obviously feel better. Made a bit of a push with the app. Happy with it, even if it's done through a vague tutorial. Proud of sticking with it though.
+
+**Link(s) to work** [Cryptocurrency Portfolio App](https://github.com/Kharouk/crypto-rails)
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
