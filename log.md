@@ -159,3 +159,17 @@ Was really trying to convince myself to just relax today. I almost decided to ju
 **Link(s) to work** [Cryptocurrency Portfolio App](https://github.com/Kharouk/crypto-rails)
 
 **Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
+
+### Day 12: August 13th, 2018
+
+**Today's Progress**
+
+Phew. Finally finished version 1.0 of my cryptocurrency app but holy crap is deploying a nightmare when you have no idea what's going on. Deployed to heroku but am struggling getting everything working. It's such a different playing field compared to development/local servers.
+
+**Thoughts**
+
+Had a successful day of coding, but I'm getting tired of Ruby! I feel like whenever I start a Ruby kata or face a problem in Ruby my heart just starts accelerating. Really want to step back and go back to learning Javascript. But I do have a trip coming up, so I'm not too worried about it. 
+
+**Links to Work**: [My Deployed App](http://cryptofolio.icu/)
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
