@@ -61,3 +61,6 @@ Saturday, the day of a bit of rest and a bit of code. Gone further with the Tree
 
 ### R1D11 - August 12 2018
 Sunday, fun day. Enjoyed the calmness of the day. Almost didn't code but decided to anyways. Feels great to have done an hour of my crypto project. Tomorrow I will be back to a several-hour coding session!
+
+### R1D12 - August 13 2018
+It's weird writing this after a long day of learning/coding/working. So exhausted but glad to have completed the skeleton version of my [Crypto app](http://www.cryptofolio.icu). However upset about the bugs that came with deployment. Also got to 6 kyu on Codewars!
