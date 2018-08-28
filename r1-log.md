@@ -64,3 +64,6 @@ Sunday, fun day. Enjoyed the calmness of the day. Almost didn't code but decided
 
 ### R1D12 - August 13 2018
 It's weird writing this after a long day of learning/coding/working. So exhausted but glad to have completed the skeleton version of my [Crypto app](http://www.cryptofolio.icu). However upset about the bugs that came with deployment. Also got to 6 kyu on Codewars!
+
+### R1D13 - August 28 2018
+Debated restarting. Decided not to due to productive responsibility. Worked on a machine learning app using brain.js and brad travery's tutorial video. Loved it since it was my first step into ML. Came back from a long, yet beautiful trip. Lost my laptop on the way back. D:!!! Sad.
