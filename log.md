@@ -173,3 +173,17 @@ Had a successful day of coding, but I'm getting tired of Ruby! I feel like whene
 **Links to Work**: [My Deployed App](http://cryptofolio.icu/)
 
 **Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
+
+### Day 13: August 28th, 2018
+
+**Today's Progress**
+
+As soon as I got back from my trip, I noticed that Brad Traversy released a quick tutorial about machine learning in JavaScript. I'm super interested in both JS and ML, so I worked on the tutorial and then the app. It was really cool to use since it was my first initial step into Machine Learning. I'm really hoping to dwell further into it, and maybe eventually use ML for a project in Makers Academy.
+
+**Thoughts**
+
+There has been a big jump in regards to dates between logs. This is because I was away on holiday to Greenland and Iceland, which was a spectacular trip. I really enjoyed it. I debated restarting the 100 days but I really think I'd be more productive if I just keep the current ticker going up. It may be cheating but I know that it'll be more beneficial for me commitment wise. However, I lost my laptop on the plane and this is killing me. I really hope I get it back. It feels like such a stupid mistake.
+
+**Links to Work**: [Repo for ML](https://github.com/Kharouk/JavaScript-Machine-Learning-Beginners) [ML Tutorial with JS](https://www.youtube.com/watch?v=RVMHhtTqUxc)
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
