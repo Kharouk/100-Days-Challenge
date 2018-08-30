@@ -67,3 +67,8 @@ It's weird writing this after a long day of learning/coding/working. So exhauste
 
 ### R1D13 - August 28 2018
 Debated restarting. Decided not to due to productive responsibility. Worked on a machine learning app using brain.js and brad travery's tutorial video. Loved it since it was my first step into ML. Came back from a long, yet beautiful trip. Lost my laptop on the way back. D:!!! Sad.
+
+### R1D14 - August 29 2018
+My laptop is probably stolen by now. More sad. Worked on pair programming and TDD on FizzBuzz. Was nice to meet a fellow student from my cohort. Eager to begin course. Feeling a lot of anxiety over it too.
+
+
