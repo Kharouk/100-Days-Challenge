@@ -187,3 +187,19 @@ There has been a big jump in regards to dates between logs. This is because I wa
 **Links to Work**: [Repo for ML](https://github.com/Kharouk/JavaScript-Machine-Learning-Beginners) [ML Tutorial with JS](https://www.youtube.com/watch?v=RVMHhtTqUxc)
 
 **Weekly Blog**: [No Blog Post Today](https://kharouk.github.io)
+
+### Day 14: August 29th, 2018
+
+**Today's Progress**
+
+Had my first remote pairing session! Together we worked on the fizzbuzz challenge, however we had to think like beginners who've never attempted the challenge since we were also creating RSpec tests for it. It was challenging yet fun, and it was great to finally meet someone from my cohort. This only gets me more pumped for the beginning of the course, however it feels like just yesterday I got in. Now it's almost beginning and soon it will end! 
+
+**Thoughts**
+
+Still missing my laptop but have decided to buy my partner's 2011 macbook that she was going to sell anyways. I wanted to install Linux on it and fiddle around with learning Kali or Fedora. I don't know if it'll be worth it (probably not) but I'll try it out anyways. I already purchased an SSD drive for it so hopefully it'll run faster than it does now (takes like 10 minutes to just open up terminal..)
+
+**Links to Work**: [fizzbuzz challenge](https://github.com/Kharouk/fizzbuzz)
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
+
+**Social Media**: [Created an instagram blog for coding! Was inspired by older Makers alumni](https://www.instagram.com/codealist)
