@@ -71,4 +71,9 @@ Debated restarting. Decided not to due to productive responsibility. Worked on a
 ### R1D14 - August 29 2018
 My laptop is probably stolen by now. More sad. Worked on pair programming and TDD on FizzBuzz. Was nice to meet a fellow student from my cohort. Eager to begin course. Feeling a lot of anxiety over it too.
 
+### R1D15 - August 30 2018
+Completed pre-course work. Worked on Rails track on Codecademy. Did some more studying on Ruby.
+
+### R1D16 - August 31 2018
+Wes Bos Javascript30 course. Worked on CSS variables and JS. Was fun to learn about CSS again. Feel like I've been focused only on programming/back-end languages.
 
