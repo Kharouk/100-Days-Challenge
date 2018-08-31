@@ -203,3 +203,35 @@ Still missing my laptop but have decided to buy my partner's 2011 macbook that s
 **Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
 
 **Social Media**: [Created an instagram blog for coding! Was inspired by older Makers alumni](https://www.instagram.com/codealist)
+
+### Day 15: August 30th, 2018
+
+**Today's Progress**
+
+Wrapping up the pre-course for Makers. Can't believe I've pretty much finished it all. I worked on a few more ruby challenges, updated the instagram blog I introduced yesterday and spent the day trying to find dedicated time between watching Mr. Robot, and doing my studies.
+
+**Thoughts**
+
+Posting this a day later is annoying and I hope I can find the time in the future to keep this daily, not every other day.
+
+**Links to Work**:
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
+
+**Social Media**: [Created an instagram blog for coding! Was inspired by older Makers alumni](https://www.instagram.com/codealist)
+
+### Day 16: August 31st, 2018
+
+**Today's Progress**
+
+Worked on day 3 of Javascript30 with Wes Bos, using CSS Variables with JavaScript. It was interesting for me since I didn't know CSS used variables and it was difficult to get used to that. Will now spend some time watching Byteconf React on Twitch and see if I can get more information into my tired mind.
+
+**Thoughts**
+
+Tired but today is officially my last weekday before I begin Makers. It's been a crazy month and I can't wait to begin at the school. I only hope I can perform well and get a job soon after I graduate.
+
+**Links to Work**: 
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
+
+**Social Media**: [Twitter](www.twitter.com/alexkharouk)
