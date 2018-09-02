@@ -235,3 +235,31 @@ Tired but today is officially my last weekday before I begin Makers. It's been a
 **Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
 
 **Social Media**: [Twitter](www.twitter.com/alexkharouk)
+
+### Day 17: September 1st, 2018
+
+**Today's Progress**
+
+Happy September 1st! So happy Summer is ending and the season that makes me cheerful is beginning. Today I worked on a lot of things.Did a JavaScript 30 challenge - day 4. Learned about arrays with the Bos. I also completed almost 50 parts of the Ruby track on Treehouse, which means I am almost finished my first track! I think the monthly subscription is finally paying off. Still didn't like the teacher but now will be working on Sinatra with another teacher. I also followed a tutorial to learn more TDD, converting Roman Numerals into numbers.
+
+**Thoughts**
+
+Today is the last Saturday before I embark on a bootcamp journey. I have no clue how I'm going to be like in the upcoming weeks, but as you know, I'm *excited*!
+
+**Links to Work**: [Roman Numerals](https://github.com/Kharouk/tests-katas-codes-galore)
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
+
+**Social Media**: [Instagram](https://www.instagram.com/p/BnNtTF_hbTM/?taken-by=codealist)
+
+### Day 18: September 2nd, 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Links to Work**: [Roman Numerals](https://github.com/Kharouk/tests-katas-codes-galore)
+
+**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
+
+**Social Media**: [Instagram](https://www.instagram.com/p/BnNtTF_hbTM/?taken-by=codealist)
