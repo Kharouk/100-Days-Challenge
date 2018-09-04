@@ -80,4 +80,5 @@ Wes Bos Javascript30 course. Worked on CSS variables and JS. Was fun to learn ab
 ### R1D17 - September 1 2018
 New month, new me. Completed a lot of work, including TDD and Bos's course. Eager to begin course. Excited to the max++. 👌
 
-### R1D18 - September 2 2018
+### R1D20 - September 4 2018
+Started the course! Coding every day, need to work on logging it though. Course is great, pairing is weird, cohort seem nice, excited to code. 🤓
