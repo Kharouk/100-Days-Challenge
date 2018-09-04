@@ -252,14 +252,18 @@ Today is the last Saturday before I embark on a bootcamp journey. I have no clue
 
 **Social Media**: [Instagram](https://www.instagram.com/p/BnNtTF_hbTM/?taken-by=codealist)
 
-### Day 18: September 2nd, 2018
+### Day 20: September 4th, 2018
 
 **Today's Progress**
 
+Starting to fall behind on posting this logs but I can assure myself that I'm still coding everyday. Yesterday I began the coruse at Makers and now I have officially got into the tech world! We had a lot of talks regarding succeeding, being healthy, being mentally stable, etc. Lastly, we did around and hour and a half of code where we did Pair Programming. I partnered up with a fellow and we used the **ping pong** tactic where one of us writes the test and then the other solves it. We did this to solve the challenges given to us by the course.
+
 **Thoughts**
 
-**Links to Work**: [Roman Numerals](https://github.com/Kharouk/tests-katas-codes-galore)
+It was great to finally begin! I got to put the names I've seen in Slack to the faces. People look nice! I'm eager to work with them all. The day was filled with conversations about being open, about being a self-led learner. I am eager to be said learner but I also wonder what the theoretically means? Will there be any teachings, any at all? This may very well teach me to take control of my actions, or else I'll slip through the cracks and fall behind. I also did my first in-person pairing session and it was uncomfortable. Debating if I should say more or less; wondering if I should just take control; Did my explanation of the problem make sense to my partner? All very confusing stuff.
 
-**Weekly Blog**: [No Blog Post Today](https://kharouk.github.io) 
+**Links to Work**: Nothing for now. Will post a link once we work on projects.
 
-**Social Media**: [Instagram](https://www.instagram.com/p/BnNtTF_hbTM/?taken-by=codealist)
+**Weekly Blog**: [Need to update soon!](https://kharouk.github.io) 
+
+**Social Media**: [Instagram](https://www.instagram.com/p/codealist)
