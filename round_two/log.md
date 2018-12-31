@@ -1,1 +1,1 @@
-# 100 Days Of Code - Log - Round 2
+# ∞ Days Of Code - Log - Round 2
